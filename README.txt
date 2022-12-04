@@ -16,19 +16,19 @@ Body = 100vh & 100vw;
 
 Classes:
     Size and positioning:
-        .w-{x}vw = width: {x}vh;                    x options: 100, 75, 50, 25, 20, 10
+        .w-{x}vw = width: {x}vh;                   x options: 100, 75, 50, 25, 20, 10
         .w-{x}perc = width: {x}%;                  x options: 100, 75, 50, 25, 20, 10
-        .h-{x}vh = height: {x}vh;                    x options: 100, 75, 50, 25, 20, 10
-        .h-{x}perc = height: {x}%;                  x options: 100, 75, 50, 25, 20, 10
+        .h-{x}vh = height: {x}vh;                  x options: 100, 75, 50, 25, 20, 10
+        .h-{x}perc = height: {x}%;                 x options: 100, 75, 50, 25, 20, 10
         .relative = position: relative;
-        .relative-r{x} = right: {x}px;                x range = 1 - 40
-        .relative-l{x} = left: {x}px;                  x range = 1 - 40
-        .relative-t{x} = top: {x}px;                  x range = 1 - 40
+        .relative-r{x} = right: {x}px;             x range = 1 - 40
+        .relative-l{x} = left: {x}px;              x range = 1 - 40
+        .relative-t{x} = top: {x}px;               x range = 1 - 40
 
     Borders:
-        .radius-{x} = border-radius: {x}px;       x range = 1 - 50
-        .b-width-{x} = border-width: {x}px;     x range = 1 - 30
-        .b-style-{x} = border-style: {x};           x = any border style
+        .radius-{x} = border-radius: {x}px;        x range = 1 - 50
+        .b-width-{x} = border-width: {x}px;        x range = 1 - 30
+        .b-style-{x} = border-style: {x};          x = any border style
 
     Margin:
 
