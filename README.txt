@@ -1,6 +1,11 @@
 ! WORK IN PROGRESS PROJECT ! FEEL FREE TO DOWNLOAD !
 
-Better-CSS is a css framework I've designed to make css and html faster and more organised. While using Better-CSS your projects css file will not be clogged with super advanced css for every class, instead there are many default setting classes which you can quickly and easily add to your html objects classlist. Using convenient assisted code editors will make this even easier as they will show you possible parameters for any settings. The CSS file is very large so it is not ideal for public release, when using a bundling manager this issue will be resolved as it will only keep used lines from the css file in the final bundle. This is made to be a plug and play file so it comes with a couple default parameters which will be listed in the content body of this text below. You can edit these defaults as they're all at the top of the file. There is a gap for you to place your custom css to make it so you don't have to scroll all the way to the bottom of the file to write any changes you need.
+Better-CSS is a css framework I've designed to make css and html faster and more organised. While using Better-CSS your projects css file will not be clogged with super
+advanced css for every class, instead there are many default setting classes which you can quickly and easily add to your html objects classlist. Using convenient assisted
+code editors will make this even easier as they will show you possible parameters for any settings. The CSS file is very large so it is not ideal for public release, when
+using a bundling manager this issue will be resolved as it will only keep used lines from the css file in the final bundle. This is made to be a plug and play file so it
+comes with a couple default parameters which will be listed in the content body of this text below. You can edit these defaults as they're all at the top of the file. There
+is a gap for you to place your custom css to make it so you don't have to scroll all the way to the bottom of the file to write any changes you need.
 
 {x} means a parameter value
 
